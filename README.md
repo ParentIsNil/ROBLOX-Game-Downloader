@@ -9,5 +9,5 @@ Run python files in command prompt:
 https://www.wikihow.com/Use-Windows-Command-Prompt-to-Run-a-Python-File
 
 # Credits
-Me
+Me/n
 Lanausse (Helped with the asset downloader itself.)
