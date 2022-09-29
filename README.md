@@ -7,8 +7,3 @@ https://python.org
 
 Run python files in command prompt:
 https://www.wikihow.com/Use-Windows-Command-Prompt-to-Run-a-Python-File
-
-# Credits
-Me (Did everything besides the asset downloader.)
-
-Lanausse (Helped with the asset downloader itself.)
